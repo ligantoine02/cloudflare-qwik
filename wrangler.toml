@@ -2,7 +2,7 @@
 name = "cloudflare-qwik"
 pages_build_output_dir = "./dist"
 
-[Vars]
+[vars]
 NODE_VERSION = "22.2.0"
 BUN_VERSION = "1.1.8"
 
